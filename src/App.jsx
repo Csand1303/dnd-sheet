@@ -2313,7 +2313,7 @@ export default function App() {
   const [exportError,setExportError] = useState(null);
 
   // ── PDF EXPORT — opens a print-ready HTML page in a new tab ──────────────
-  const handleExportPDF = () => {
+  const handleExportPDF = async () => {
     if (!char) return;
     setExporting(true);
     setExportError(null);
