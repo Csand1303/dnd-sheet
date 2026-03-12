@@ -2,7 +2,7 @@
 
 A fully featured D&D 2024 PHB character sheet app. Built with React + Vite.
 
-**Live site:** https://YOUR_GITHUB_USERNAME.github.io/dnd-sheet
+**Live site:** https://Csand1303.github.io/dnd-sheet
 
 ## Features
 - Full character creation (class, species, background, abilities, skills, feats)
